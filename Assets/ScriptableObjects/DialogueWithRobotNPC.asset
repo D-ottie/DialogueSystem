@@ -13,8 +13,10 @@ MonoBehaviour:
   m_Name: DialogueWithRobotNPC
   m_EditorClassIdentifier: 
   dialogues:
-  - Ola! Wanna come hang with me?
-  - I'm not sure. It doesnt look very safe
-  - Well, maybe! But its sure as hell fun!
-  - Okay, I'll give it a try.
-  NPCprofilePrefab: {fileID: 2247760242286585236, guid: 1f016f111efddd943b1a5c2478e40a27, type: 3}
+  - Thank Goodness you are here Bergie! A group of soldiers has attacked and destroyed
+    our whole village. We have no where to go. We need your help.
+  - Hello there! I'm sorry to hear that. How many of them are in there?
+  - There are about 10 soldiers. You have to kill all of them Bergie! Only then can
+    you get passage to the next village.
+  - Okay then. Wish me luck!
+  - All the best Bergie!
