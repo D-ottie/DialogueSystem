@@ -13,10 +13,9 @@ MonoBehaviour:
   m_Name: DialogueWithRobotNPC
   m_EditorClassIdentifier: 
   dialogues:
-  - Thank Goodness you are here Bergie! A group of soldiers has attacked and destroyed
-    our whole village. We have no where to go. We need your help.
-  - Hello there! I'm sorry to hear that. How many of them are in there?
-  - There are about 10 soldiers. You have to kill all of them Bergie! Only then can
-    you get passage to the next village.
-  - Okay then. Wish me luck!
-  - All the best Bergie!
+  - Thank Goodness you are here Heisenberg! They have taken all the money. They came
+    so quick, I didnt have a chance to stop them.
+  - Oh My Goodness Jesse, I worked so hard to get all of that! Where did they go?
+  - They took off in a van not so long ago, they should be on the dirt road up ahead.
+  - Remind me never to trust you with my cash!
+  - 'Sorry man! '
